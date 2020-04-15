@@ -7,6 +7,7 @@ http://wiki.obrienlabs.cloud/display/DEV/Kubernetes+Developer+Guide
 github.com/yamad/jaxrs-docker-example/
 https://github.com/klarna/brucke
 https://sites.google.com/site/gettingalongwitherlang/home/misc/communication-with-java/Erlang-RPC-implementation-by-Java
+https://github.com/J3T4R0/storefront-demo-cases
 
 ## Key Takeaways
 * How to expose an api through docker and connect to it through spawned processes in a maintaiable way
