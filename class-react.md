@@ -45,7 +45,7 @@ Macro for leveraging the constants table in clojurescript to embed directly into
     
 (do (cljsc/emits "cljs.core." (cljsc/munge value) " = ")
     (-> sym meta :ast cljsc/emits))
-
+```
 ## Useful Tools
 * Hiccup
 * Re-frankenstein/Rum
